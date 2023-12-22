@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Vaadin-Package-Version: 1
+Vaadin-Addon: compani-2.0.0.jar
+Implementation-Vendor: Mekaso GmbH
+Implementation-Title: CompAni
+Implementation-Version: 2.0.0
