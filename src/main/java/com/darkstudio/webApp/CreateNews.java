@@ -30,8 +30,7 @@ public class CreateNews {
         PrintWriter printWriter = new PrintWriter("texts/news/news_"+filesCount+".json");
         jsonObject.writeJSONString(printWriter);
         printWriter.close();
-
-
+        
         System.out.println("Done");
     }
 }
