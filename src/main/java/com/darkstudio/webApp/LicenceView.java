@@ -1,11 +1,8 @@
 package com.darkstudio.webApp;
 
 import com.vaadin.flow.component.HasText;
-import com.vaadin.flow.component.UI;
 import com.vaadin.flow.component.html.H6;
-import com.vaadin.flow.component.notification.Notification;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
-import com.vaadin.flow.component.page.Page;
 import com.vaadin.flow.router.Route;
 import org.jetbrains.annotations.Nullable;
 
